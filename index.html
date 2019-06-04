@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Hello World!</title>
+    <title>Last Runner!</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- bootstrap 4.0.0-beta.2 -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
@@ -54,9 +54,9 @@
                             <!-- avatar -->
                             <a><img src="img/hd.jpg" class="unselectable"></a>
                             <!-- name -->
-                            <h1 class="unselectable">Dalin Huang</h1>
+                            <h1 class="unselectable">Last Runner</h1>
                             <!-- role -->
-                            <h2 class="unselectable">Full Stack Developer</h2>
+                            <h2 class="unselectable">주관: 한국 기도의 집(KHOP)</h2>
                         </header>
                         <div class="profile-bio">
                             <p class="unselectable">
@@ -66,22 +66,16 @@
                         </div>
                         <!-- social links -->
                         <ul class="profile-social-links">
-                            <li><a target="_blank" href="https://ca.linkedin.com/in/dalinhuang">
-                                    <i class="fa fa-lg fa-linkedin"></i>
+							<li><a href=""></a></li>
+                            <li><a target="_blank" href="https://youtu.be/_fP-3KfQWUA">
+                                    <i class="fa fa-lg fa-youtube"></i>
                                 </a>
                             </li>
-                            <li><a target="_blank" href="https://stackoverflow.com/users/4739018/daniel-h?tab=profile">
-                                    <i class="fa fa-lg fa-stack-overflow"></i>
+                            <li><a target="_blank" href="https://tcc567.kr">
+                                    <i class="fa fa-lg fa-home"></i>
                                 </a>
                             </li>
-                            <li><a target="_blank" href="https://github.com/dalinhuang99">
-                                    <i class="fa fa-lg fa-github-alt"></i>
-                                </a>
-                            </li>
-                            <li><a target="_blank" href="https://www.facebook.com/dalin.huang.39">
-                                    <i class="fa fa-lg fa-facebook"></i>
-                                </a>
-                            </li>
+							<li><a href=""></a></li>
                         </ul>
                     </div>
                 </div>
@@ -91,38 +85,35 @@
         <section>
             <div class="about-me">
                 <div class="text-center">
-                    <img class="unselectable" src="img/about-me.png" height="100" width="550">
+                    <img class="unselectable" src="img/info.png">
                     <br><br>
                 </div>
                 <div class="clearfix"></div>
                 <div class="about-me__content" id="terminal-start">
-                    <p>Last login: Thu Oct 12 00:28:38 2017 from
+                    <p>Last login: Thu Jun 07 00:28:38 2019 from
                         cpe44d9e79bd14b-cma84e3fd1a7d0.cpe.net.cable.rogers.com</p>
                     <pre style="border: none;">
          __|  __|_  )
          _|  (     /   Amazon Linux AMI
         ___|\___|___|
 
-Amazon Linux version 2017.09 is available.
+Amazon Linux version 2019.06 is available.
 </pre>
                     <br><br>
                     <div class="command">
-                        <!-- email -->
-                        <p>echo $email</p>
-                        <span class="hideme">email: dhuan023@gmail.com</span>
-                        <!-- phone -->
-                        <p>echo $phone</p>
-                        <span class="hideme">phone: (647)-927-XXXX</span>
-                        <!-- address -->
-                        <p>echo $address</p>
-                        <span class="hideme">address: Ottawa, ON, Canada</span>
-                        <!-- education -->
-                        <p>echo $education</p>
-                        <span class="hideme">University of Ottawa • 2009 - 2014<br>
-                            BSc: Specialization in Computer Science; Minor in Economics;</span>
-                        <!-- eligible_to_work -->
-                        <p>echo $eligible_to_work</p>
-                        <span class="hideme">Permanent Resident of Canada</span>
+						<p>echo $date</p>
+                        <span class="hideme">일정: 추후공지</span>
+                        <p>echo $contact</p>
+                        <span class="hideme">문의: (Tel) 070-5055-4083, 02-585-5670</span>
+                        <p>echo $who</p>
+                        <span class="hideme">주관: 한국 기도의 집(KHOP)</span>
+                        <p>echo $host</p>
+                        <span class="hideme">주최: 청년한국</span>
+                        <p>echo $donation</p>
+                        <span class="hideme">후원 및 협력: 거룩한 대한민국 네트워크<br>
+                            엘 정책 연구소, TCC, PCN;</span>
+                        <p>echo $location</p>
+                        <span class="hideme">장소: 한국 기도의 집</span>
                     </div>
                 </div>
             </div>
@@ -137,11 +128,11 @@ Amazon Linux version 2017.09 is available.
                     <p><label>Data:</label></p>
                     <div class="block-data">
                         <p>
-                            <label>Title:</label><b>Full Stack Developer</b></p>
+                            <label>문의:</label><b>(Tel) 070-5055-4083, 02-585-5670</b></p>
                         <p>
-                            <label>Company:</label>FarmLead.com</p>
+                            <label>주관:</label>한국 기도의 집(KHOP)</p>
                         <p>
-                            <label>Stack:</label>MySQL, PHP7, JS, HTML5, CSS3, AWS</p>
+                            <label>주최:</label>청년 한국</p>
                         <p>
                             <label>Time:</label>Feb 2017 - Present</p>
                     </div>
@@ -395,23 +386,6 @@ Amazon Linux version 2017.09 is available.
                 }, 500, "resizing");
             });
 
-            // $(".draggable").draggable({
-            //  axis: "y",
-            //  containment: "parent",
-            //  start: function() {
-            //      isDragging = true;
-            //      $('body').addClass('dragging');
-            //  },
-            //  drag: function() {
-            //      pointerPos = $(this).css('top');
-            //      sliderMove(pointerPos);
-            //      updatePos();
-            //  },
-            //  stop: function() {
-            //      isDragging = false;
-            //      $('body').removeClass('dragging');
-            //  }
-            // });
 
             // Steve Jobs Quotes
             console.log("\n \t Your work is going to fill a large part of your life,\n and the only way to be " +
