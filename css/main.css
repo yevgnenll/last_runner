@@ -757,8 +757,8 @@ body.dragging .nav-pointer {
     -webkit-border-radius: 4px;
   }
   100% {
-    width: 260px;
-    height: 420px;
+    width: 780px;
+    height: 760px;
     background: #FFFFFF;
     -webkit-border-radius: 4px;
   }
@@ -771,8 +771,8 @@ body.dragging .nav-pointer {
     border-radius: 4px;
   }
   100% {
-    width: 260px;
-    height: 420px;
+    width: 780px;
+    height: 760px;
     background: #FFFFFF;
     border-radius: 4px;
   }
