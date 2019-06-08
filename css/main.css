@@ -763,7 +763,78 @@ body.dragging .nav-pointer {
     -webkit-border-radius: 4px;
   }
 }
-@keyframes materia {
+
+@media screen and (max-width: 370px) {
+  @-webkit-keyframes materia {
+      0% {
+        background: #E0E0E0;
+      }
+      50% {
+        border-radius: 4px;
+      }
+      100% {
+        width: 360px;
+        height: 760px;
+        background: #FFFFFF;
+        border-radius: 4px;
+      }
+  }
+
+}
+
+
+/* none 540px	720px	960px	1140px*/
+@media screen and (max-width: 540px) {
+  @-webkit-keyframes materia {
+      0% {
+        background: #E0E0E0;
+      }
+      50% {
+        border-radius: 4px;
+      }
+      100% {
+        width: 370px;
+        height: 760px;
+        background: #FFFFFF;
+        border-radius: 4px;
+      }
+  }
+
+}
+@media screen and (max-width: 720px) {
+    @-webkit-keyframes materia {
+      0% {
+        background: #E0E0E0;
+      }
+      50% {
+        border-radius: 4px;
+      }
+      100% {
+        width: 80%;
+        height: 760px;
+        background: #FFFFFF;
+        border-radius: 4px;
+      }
+  }
+}
+@media screen and (max-width: 960px) {
+  @-webkit-keyframes materia {
+      0% {
+        background: #E0E0E0;
+      }
+      50% {
+        border-radius: 4px;
+      }
+      100% {
+        width: 780px;
+        height: 760px;
+        background: #FFFFFF;
+        border-radius: 4px;
+      }
+  }
+}
+@media screen and (min-width: 961px) {
+  @-webkit-keyframes materia {
   0% {
     background: #E0E0E0;
   }
@@ -776,4 +847,57 @@ body.dragging .nav-pointer {
     background: #FFFFFF;
     border-radius: 4px;
   }
+ }
 }
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 414px) {
+    #changestyle {
+        display: none;
+    }
+    #particles-js iframe {
+        margin-top: 60px;
+    }
+    .block-chains-container {
+        align-self: flex-start;
+    }
+    .parallax-window-half {
+        display: none;
+    }
+}
+
+
+/* none 540px	720px	960px	1140px*/
+@media screen and (max-width: 540px) {
+    #changestyle {
+        display: none;
+    }
+    #particles-js iframe {
+        margin-top: 60px;
+    }
+    .block-chains-container {
+        align-self: flex-start;
+    }
+    .parallax-window-half {
+        display: none;
+    }
+}
+@media screen and (max-width: 720px) {
+
+}
+@media screen and (max-width: 960px) {
+
+}
+@media screen and (min-width: 961px) {
+
+}
+
+
