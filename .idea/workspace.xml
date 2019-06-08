@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dec2bd81-2af0-4ebf-aadb-608e0b2ed52c" name="Default Changelist" comment="">
+    <list default="true" id="979c344d-5801-4fcd-a163-78e9eaa52372" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +17,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-736">
-              <caret line="53" column="246" selection-start-line="53" selection-start-column="246" selection-end-line="53" selection-end-column="246" />
+            <state relative-caret-position="-3630">
+              <caret line="97" column="57" selection-start-line="97" selection-start-column="57" selection-end-line="97" selection-end-column="57" />
+              <folding>
+                <element signature="n#style#0;n#pre#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#10356#10362#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -30,25 +41,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="760" column="13" selection-start-line="760" selection-start-column="13" selection-end-line="760" selection-end-column="13" />
+            <state relative-caret-position="41">
+              <caret line="860" lean-forward="true" selection-start-line="860" selection-end-line="860" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/info.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/test-oct-6.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/test-oct.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -56,6 +52,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>260px</find>
+      <find>materia</find>
+      <find>text-center</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -89,13 +87,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="210" />
+    <option name="y" value="23" />
+    <option name="width" value="1470" />
+    <option name="height" value="975" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -104,42 +102,39 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="dalinhuang99.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dalinhuang99.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="last_runner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="last_runner" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="dalinhuang99.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dalinhuang99.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="last_runner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="last_runner" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="dalinhuang99.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dalinhuang99.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="last_runner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="last_runner" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dalinhuang99.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dalinhuang99.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.3494253" />
@@ -206,24 +201,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dec2bd81-2af0-4ebf-aadb-608e0b2ed52c" name="Default Changelist" comment="" />
+      <changelist id="979c344d-5801-4fcd-a163-78e9eaa52372" name="Default Changelist" comment="" />
       <created>1559619932902</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559619932902</updated>
       <workItem from="1559619934453" duration="1488000" />
       <workItem from="1559705614621" duration="2141000" />
+      <workItem from="1559899690778" duration="5534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3629000" />
+    <option name="totallyTimeSpent" value="9236000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="210" y="23" width="1470" height="975" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21638656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -243,7 +239,7 @@
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Usages" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.23329559" />
       <window_info anchor="bottom" id="Inspector" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Dependencies Viewer" order="15" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -278,17 +274,28 @@
     <entry file="file://$PROJECT_DIR$/img/test-oct-6.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-736">
-          <caret line="53" column="246" selection-start-line="53" selection-start-column="246" selection-end-line="53" selection-end-column="246" />
+        <state relative-caret-position="-3630">
+          <caret line="97" column="57" selection-start-line="97" selection-start-column="57" selection-end-line="97" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#pre#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10356#10362#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="760" column="13" selection-start-line="760" selection-start-column="13" selection-end-line="760" selection-end-column="13" />
+        <state relative-caret-position="41">
+          <caret line="860" lean-forward="true" selection-start-line="860" selection-end-line="860" />
         </state>
       </provider>
     </entry>
